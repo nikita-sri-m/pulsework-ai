@@ -1,0 +1,16 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f7fb;
+}
+
+h2 {
+  color: darkblue;
+}
+
+p {
+  background-color: orange;
+  padding: 10px;
+  width: 150px;
+  border-radius: 8px;
+}
